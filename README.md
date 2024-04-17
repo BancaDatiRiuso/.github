@@ -1,2 +1,1 @@
-# .github
-Banca Dati Riuso
+# Informazioni di lavoro collegate alla BDR
